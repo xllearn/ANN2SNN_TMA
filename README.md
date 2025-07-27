@@ -50,16 +50,5 @@ python run_snn.py \
 
 If the accuracy is not satisfactory, you can fine-tune the SNN using `main.py` with appropriate parameters.
 
-## Citation
 
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@article{yourcitation,
-  title={Enhancing ANN-SNN Conversion: Addressing Low Latency and Negative Thresholds with Modified Activation and BPTT Fine-tuning},
-  author={Authors},
-  journal={Journal},
-  year={Year}
-}
-```
 

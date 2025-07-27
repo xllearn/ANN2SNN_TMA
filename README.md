@@ -1,5 +1,5 @@
 # ANN2SNN_TMA
-以下是适合GitHub README的Markdown格式内容：
+
 
 ```markdown
 # ANN-SNN Conversion with Modified Activation and BPTT Fine-tuning

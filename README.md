@@ -1,6 +1,3 @@
-# ANN2SNN_TMA
-
-
 ```markdown
 # ANN-SNN Conversion with Modified Activation and BPTT Fine-tuning
 
@@ -8,7 +5,7 @@ This is the official code for the paper **"Enhancing ANN-SNN Conversion: Address
 
 ## Requirements
 
-- Python 3.8
+- Python 3.x
 - PyTorch == 1.12.1
 - tqdm == 4.63.0
 - numpy == 1.21.5
@@ -19,6 +16,13 @@ Install requirements:
 ```bash
 pip install torch==1.12.1 tqdm==4.63.0 numpy==1.21.5 torchvision==0.13.1 spikingjelly==0.0.0.0.14
 ```
+
+## Pre-trained Weights
+
+You can download pre-trained weights from:  
+🔗 [Google Drive Link](https://drive.google.com/drive/folders/1fjCQVKppxuBdV_7D5agLge4grR_OO7m9?usp=drive_link)
+
+After downloading, place the weights in the `model/` directory.
 
 ## Usage
 
@@ -49,6 +53,4 @@ python run_snn.py \
 ### 3. (Optional) SNN Fine-tuning
 
 If the accuracy is not satisfactory, you can fine-tune the SNN using `main.py` with appropriate parameters.
-
-
 

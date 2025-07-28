@@ -19,10 +19,7 @@ pip install torch==1.12.1 tqdm==4.63.0 numpy==1.21.5 torchvision==0.13.1 spiking
 
 ## Pre-trained Weights
 
-You can download pre-trained weights from:  
-🔗 [Google Drive Link](https://drive.google.com/drive/folders/1fjCQVKppxuBdV_7D5agLge4grR_OO7m9?usp=drive_link)
-
-After downloading, place the weights in the `model/` directory.
+The weight will be provided after employment.
 
 ## Usage
 

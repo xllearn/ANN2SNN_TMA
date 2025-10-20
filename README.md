@@ -5,7 +5,7 @@ This is the official code for the paper **"Enhancing ANN-SNN Conversion: Address
 
 ## Requirements
 
-- Python 3.x
+- Python 3.8
 - PyTorch == 1.12.1
 - tqdm == 4.63.0
 - numpy == 1.21.5
